@@ -5,4 +5,4 @@
 content
 
 
-[Return](https://github.com/StewartNZ/RES701-Blogs)
+[Return](https://stewartnz.github.io/RES701-Blogs/)
