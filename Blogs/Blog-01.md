@@ -9,7 +9,7 @@ __What do you think Research is:__
 - Research can be gathered from all sorts of different mediums including the internet, books, television and people.
 
 __Do you think that you will ever need research skills:__
-Yes, I do simple and complicated research all the time, a specific example would be looking to get a new motorbike. I gathered information from many places including family, the internet and from salespeople at local stores. I had to research what my price range would be and how powerful of a bike I wanted.
+- Yes, I do simple and complicated research all the time, a specific example would be looking to get a new motorbike. I gathered information from many places including family, the internet and from salespeople at local stores. I had to research what my price range would be and how powerful of a bike I wanted.
 
 __What do you think a research journal is and who is it written for:__
 - I think a research journal is a place where you put gathered information to sort and grade in regards to importance.
