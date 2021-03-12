@@ -27,7 +27,14 @@
     * True is what something that is believed or known based off facts
     * Valid can be an argument against truth when what was observed is accurate but not the whole picture
 
-### More to come...
+### Questions for Blog
+
+1. What is ontology? How is it relevant to research?
+    * 
+2. What is epistemology? How is it relevant to research?
+    * 
+3. What is the connection between ontology and epistemology in a research context?
+    * 
 
 
 [Return](https://stewartnz.github.io/RES701-Blogs/)
