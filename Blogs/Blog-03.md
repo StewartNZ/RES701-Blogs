@@ -3,10 +3,10 @@
 
 ### Research Paradigms
 
-|   | Classic Scientific | Social Science | Post-Modernist
- - | ------------------ | -------------- | --------------
- Ontology | Realism | Constructivism | Nominalism
- Epistemology | Positivism | Interpretivism | Anti-positivist\nRelativism
+&nbsp; | Classic Scientific | Social Science | Post-Modernist
+------ | ------------------ | -------------- | --------------
+Ontology | Realism | Constructivism | Nominalism
+Epistemology | Positivism | Interpretivism | Anti-positivist\nRelativism
 
 
 
