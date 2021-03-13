@@ -30,9 +30,9 @@
 ### Questions for Blog
 
 1. What is ontology? How is it relevant to research?
-    * 
+    * The philosopical study of existence and reality. This is important to research as it about the effects of reality is perceived and what that might change in your results.
 2. What is epistemology? How is it relevant to research?
-    * 
+    * The philosopical study of knowledge. When taking this into, you've got to make sure differentiate between truth and belief.
 3. What is the connection between ontology and epistemology in a research context?
     * 
 
