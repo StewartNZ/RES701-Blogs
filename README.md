@@ -4,6 +4,7 @@ I have created a GitHub Repository for my Blogs and have also created a [discuss
 
 ### Current Blogs
 
--   [Link to Blog-01 (26/02/2021)](https://stewartnz.github.io/RES701-Blogs/Blogs/Blog-01)
--   [Link to Blog-02 (05/03/2021)](https://stewartnz.github.io/RES701-Blogs/Blogs/Blog-02)
--   [Link to Blog-03 (12/03/2021)](https://stewartnz.github.io/RES701-Blogs/Blogs/Blog-03)
+-   [Introduction into Research (26/02/2021)](https://stewartnz.github.io/RES701-Blogs/Blogs/Blog-01)
+-   [Truth and Facts (05/03/2021)](https://stewartnz.github.io/RES701-Blogs/Blogs/Blog-02)
+-   [Research Paradigms (12/03/2021)](https://stewartnz.github.io/RES701-Blogs/Blogs/Blog-03)
+-   [Project Proposal (21/06/2021)](https://stewartnz.github.io/RES701-Blogs/Blogs/Blog-04)
